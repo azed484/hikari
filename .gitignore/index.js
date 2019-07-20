@@ -10,7 +10,7 @@ var hasard = 0;
 
 const { Client, RichEmbed } = require('discord.js');
 
-client.login('[token]');
+client.login('NTk1Mjk1MDA5NjcxMjE3MjU4.XRo6nQ.wck000p3yKv8rKyNil7txmzH7kY');
 
 client.on('ready', () => { //ready !!
     console.log('je suis prèt mon colonel');
