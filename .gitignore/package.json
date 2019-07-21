@@ -1,4 +1,5 @@
-"requires": true,
+{
+  "requires": true,
   "lockfileVersion": 1,
   "dependencies": {
     "async-limiter": {
